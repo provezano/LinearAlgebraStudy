@@ -2,7 +2,7 @@
 
 Chapter 1: Linear Equations and Matrices
 
-1.1 System of Linear Equations
+1.1 System of Linear Equations<br>
 1.2 Gaussian Elimination
 1.3 Vector Arithmetic
 1.4 Arithmetic of Matrices
