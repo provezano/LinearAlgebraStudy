@@ -1,4 +1,5 @@
 # LinearAlgebraStudy<br><br>
+Here are my (Python) study notes for the book "Linear Algebra step by step" by Kuldeep Singh.<br>
 
 Chapter 1: Linear Equations and Matrices<br><br>
 
